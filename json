@@ -1,0 +1,39 @@
+[
+  {
+    "extra": "Home",
+    "key": "Football Live"
+  },
+  {
+    "extra": "Tv Channels",
+    "key": "Tv Channels"
+  },
+ {
+    "extra": "Football",
+    "key": "Sport Live"
+  },
+{
+    "extra": "Highlight",
+    "key": "Highlight"
+  },
+
+  {
+    "extra": "Movies",
+    "key": "Movies"
+  },
+  {
+    "extra": "Tv Series",
+    "key": "Series"
+  },
+  {
+    "extra": "FLIX18+",
+    "key": "Adult [18+]"
+  },
+  {
+    "extra": "About App",
+    "key": "About App"
+  },
+  {
+    "extra": "Player Settings",
+    "key": "Player Settings"
+  }
+]
